@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElopingDev
 - 👀 I’m interested in Web (Professional) & C++ / C# (Personal)
-- 🌱 I’m currently focusing on C++, more specifically Game Hacking / Memory Editing
-- 📫 You can contact me through Discord (Eloping#4136) or at my email elopingbuisness@gmail.com
+- 🌱 I’m currently focusing on wearing skirts
+- 📫 You can contact me through Discord (Eloping#5214) or at my email elopingbuisness@gmail.com
 
 - ![Eloping's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElopingDev&show_icons=true&theme=jolly)
 
