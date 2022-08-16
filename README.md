@@ -3,7 +3,7 @@
 - 🌱 I’m currently focusing on C++, more specifically Game Hacking / Memory Editing
 - 📫 You can contact me through Discord (Eloping#4136) or at my email elopingbuisness@gmail.com
 
-[![Eloping's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElopingDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Eloping's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElopingDev&count_private=true&show_icons=true&title_color=ea83e5&icon_color=ea83e5&bg_color=151c26&text_color=ffffff)
 
 <!---
 ElopingDev/ElopingDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
