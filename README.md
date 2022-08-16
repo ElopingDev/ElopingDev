@@ -4,6 +4,7 @@
 - 📫 You can contact me through Discord (Eloping#4136) or at my email elopingbuisness@gmail.com
 
 [![Eloping's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElopingDev&show_icons=true&theme=jolly)
+</p>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElopingDev&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 
