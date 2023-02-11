@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElopingDev
 - 👀 I’m interested in Game Hacking & C++
-- 🌱 I’m currently focusing on being gay
+- 🌱 I’m currently focusing on game hacking
 - 📫 You can contact me through Discord (Eloping#5214) or at my email elopingbuisness@gmail.com
 
 - ![Eloping's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElopingDev&show_icons=true&theme=jolly)
