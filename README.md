@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElopingDev
-- 👀 I’m interested in Game Hacking & C++
-- 🌱 I’m currently focusing on NOTHING
-- 📫 You can contact me through Discord (.eloping) or at my email elopingbuisness@gmail.com
+- 👀 I’m interested in most programming languages
+- 🌱 I’m currently focusing on reaching my dream.
+- 📫 You can contact me through Discord (.eloping) or at my email elopingbusiness@gmail.com
 
 - ![Eloping's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElopingDev&show_icons=true&theme=jolly)
 
