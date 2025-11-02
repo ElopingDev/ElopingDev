@@ -1,5 +1,4 @@
 - 👋 @ElopingDev
-- I 💜 Lærke
 - 📫 You can contact me through Discord (.eloping) or at my email elopingbusiness@gmail.com
 
 - ![Eloping's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElopingDev&show_icons=true&theme=jolly)
